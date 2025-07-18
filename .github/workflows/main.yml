@@ -13,7 +13,7 @@ jobs:
       - name: Quietly ping multiple websites
         run: |
           sites=(
-            "https://billbotnode.onrender.com"
+            
             "https://glucobuddy-yera.onrender.com"
            
           )
